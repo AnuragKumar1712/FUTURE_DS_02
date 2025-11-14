@@ -1,6 +1,6 @@
 # 📊 Facebook Ad Campaign Performance Dashboard
 
-An interactive **Power BI dashboard** built using Facebook Ad Campaign data to analyze ad performance, audience behavior, and conversion insights. The project focuses on understanding how impressions, clicks, and spend impact engagement and overall campaign effectiveness.
+An interactive Power BI dashboard built using Sales Ad Campaign data to deliver actionable insights for optimizing future ad campaigns.
 
 <img width="877" height="492" alt="Screenshot 2025-11-14 105425" src="https://github.com/user-attachments/assets/ddb02440-04d4-4bad-9dbe-40a9f5b3ea16" />
 
